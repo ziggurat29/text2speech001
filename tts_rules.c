@@ -102,7 +102,7 @@ document "AD/A021 929".
 #define IH   "\x0d"	//sIt		 70MS
 #define TT2  "\x0e"	//To		140MS
 #define RR1  "\x0f"	//Rural		170MS
-#define AX   "\x0f"	//sUcceed	 70MS
+#define AX   "\x10"	//sUcceed	 70MS
 #define AH   "\x10"	//(pseudo-phoneme)	XXX have to fixup rules; scrutinize this
 #define MM   "\x11"	//Milk		180MS
 #define TT1  "\x12"	//parT		1OOMS
